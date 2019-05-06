@@ -30,5 +30,5 @@ class Book:
 
 
     @staticmethod
-    def get_static_amount_of_books(self):
+    def get_static_amount_of_books():
         return Book.amount_of_books
